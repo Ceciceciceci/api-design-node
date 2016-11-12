@@ -1,7 +1,6 @@
 {
   "name": "node-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,15 @@
     "express": "^4.13.1",
     "lodash": "^3.10.0",
     "morgan": "^1.6.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ceciceciceci/api-design-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ceciceciceci/api-design-node/issues"
+  },
+  "homepage": "https://github.com/Ceciceciceci/api-design-node#readme",
+  "description": ""
 }
